@@ -1,0 +1,4 @@
+# Referenced at /Users/brsoftech5/Desktop/demo/quickshop/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:45
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/brsoftech5/Desktop/demo/quickshop/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:45
+-keep class com.quickshop.MainApplication { <init>(); }
